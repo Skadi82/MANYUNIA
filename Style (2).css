@@ -1,0 +1,91 @@
+        
+body{
+    background: url(https://img.freepik.com/free-vector/adorable-paw-print-pattern-background-perfect-for-kids-and-animal-lover-vector_1017-47508.jpg?size=626&ext=jpg&ga=GA1.1.1788614524.1719014400&semt=ais_user);
+    
+}
+a{
+    text-decoration: none;
+}
+
+a:focus{
+    color:red;
+}
+
+div{
+    position: relative;
+}
+
+h2 {
+    position: absolute;
+    color: azure;
+    font-size: 30px;
+    top: -5%;
+    left: 24%;
+}
+
+div{
+    position:relative
+
+}
+
+
+
+
+    
+        .warning {
+border: 10px ridge #f00;
+background-color: #ff0;
+padding: 0.2rem;
+display: flex;
+flex-direction: column;
+width:350px
+}
+
+.warning img {
+position:relative
+width: 100%;
+top:-15%;
+}
+
+.warning p {
+font: small-caps bold 1.2rem sans-serif;
+text-align: center;
+top:-15%
+}
+
+.warning {
+left:165px	
+}
+
+.warning{
+top:-7950px
+}
+
+        .bomba {
+border: 10px ridge #f00;
+background-color: #ff0;
+padding: 0.2rem;
+display: flex;
+flex-direction: column;
+width:350px
+}
+
+.bomba img {
+position:relative
+width: 100%;
+top:-15%;
+}
+
+.bomba p {
+font: small-caps bold 1.2rem sans-serif;
+text-align: center;
+top:-15%
+}
+
+.bomba{
+left:1335px
+}
+
+.bomba{
+top:-8233px
+}
